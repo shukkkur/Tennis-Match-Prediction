@@ -1,0 +1,27 @@
+,date_of_match,player1_id,player1_name,player2_id,player2_name,lk1,lk2,final_outcome,Ridge - L2,SVC,KNN,LogReg,DecisionTree
+0,27.09.2020,20651971,Menze,20950499,Thamm,11.7,12.7,win,win,win,win,win,lose
+1,13.09.2020,20651971,Menze,20551966,Schwarzburg,11.7,15.0,win,win,win,win,win,win
+2,13.09.2020,20651971,Menze,20459604,Wienzgol,11.7,15.2,win,win,win,win,win,win
+3,29.08.2020,20651971,Menze,20557685,Korek,11.7,19.1,win,win,win,win,win,win
+4,09.08.2020,20651971,Menze,20653565,Ströh,11.7,8.0,lose,lose,lose,lose,lose,lose
+5,01.08.2020,20651971,Menze,20203268,Martens,11.7,14.1,win,win,win,win,win,lose
+6,01.08.2020,20651971,Menze,29500243,Israel,11.7,11.1,win,win,win,lose,win,win
+7,16.07.2020,20651971,Menze,20301657,Müller,11.7,9.1,lose,lose,lose,lose,lose,lose
+8,16.07.2020,20651971,Menze,20552002,Hollenberg,11.7,12.0,win,win,win,win,win,lose
+9,12.07.2020,20651971,Menze,20655479,Ukic,11.7,11.7,win,win,win,win,win,win
+10,12.07.2020,20651971,Menze,20662707,Geels,11.7,14.1,win,win,win,win,win,lose
+11,05.07.2020,20651971,Menze,20655281,Vennegeerts,11.7,13.1,win,win,win,win,win,lose
+12,05.07.2020,20651971,Menze,20450155,Kleimeier,11.7,4.1,lose,lose,lose,lose,lose,lose
+13,05.07.2020,20651971,Menze,20500194,Geiger,11.7,15.1,win,win,win,win,win,win
+14,29.06.2020,20651971,Menze,20655628,Verstynen,11.7,17.4,win,win,win,win,win,win
+15,29.06.2020,20651971,Menze,20651976,Rimkus,11.7,16.1,win,win,win,win,win,win
+16,07.06.2020,20651971,Menze,29950485,Gronemeyer,11.7,15.1,win,win,win,win,win,win
+17,17.05.2020,20651971,Menze,27800033,Brinkmann,11.7,13.1,win,win,win,win,win,lose
+18,03.05.2020,20651971,Menze,20455145,Kopp,11.7,7.1,lose,lose,lose,lose,lose,lose
+19,29.02.2020,20651971,Menze,20455145,Kopp,11.7,7.1,lose,lose,lose,lose,lose,lose
+20,16.02.2020,20651971,Menze,20450410,Nies,11.7,3.9,lose,lose,lose,lose,lose,lose
+21,09.02.2020,20651971,Menze,29400052,Nowak,11.7,6.1,lose,lose,lose,lose,lose,lose
+22,02.02.2020,20651971,Menze,20203260,Lakebrink,11.7,12.8,win,win,win,win,win,lose
+23,12.01.2020,20651971,Menze,29851956,Block,11.7,17.1,win,win,win,win,win,win
+24,05.01.2020,20651971,Menze,20550737,Hübscher,11.7,17.0,win,win,win,win,win,win
+25,22.12.2019,20651971,Menze,20552818,Seele,11.7,14.1,win,win,win,win,win,lose
