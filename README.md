@@ -30,7 +30,7 @@ I build and trained the following linear model classifiers:
 
 Then, tested them on the new ![datasets](PredictionData)
 
-<br><br>
+<br>
 and the results I've got:
 
 |    | date_of_match | player1_id | player1_name | player2_id |      player2_name     |  lk1 |  lk2 | final_outcome | Ridge - L2 |  SVC |  KNN | LogReg | DecisionTree |
